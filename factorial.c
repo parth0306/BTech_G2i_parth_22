@@ -1,4 +1,4 @@
-/*finding factorial*/
+//finding factorial
 #include <stdio.h>
 int main(){
     int n,i,f=1;
