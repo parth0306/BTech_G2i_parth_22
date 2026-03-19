@@ -13,7 +13,6 @@ float principal, rate, time, simple_interest, compound_interest, amount;
     compound_interest = amount - principal;
     printf("\nSimple Interest: %f\n", simple_interest);
     printf("Compound Interest: %f\n", compound_interest);
-
     return 0;
 }
 
