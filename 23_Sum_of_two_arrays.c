@@ -1,7 +1,7 @@
 #include <stdio.h>
 int main() 
 {
-    int n, i ,arr1[n], arr2[n], sumArr[n];
+    int n, i ,arr1[100], arr2[100], sumArr[100];
     printf("Enter the number of elements: ");
     scanf("%d", &n);
     printf("Enter elements of first array:\n");
