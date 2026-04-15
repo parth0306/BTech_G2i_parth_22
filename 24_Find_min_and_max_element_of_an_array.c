@@ -1,7 +1,7 @@
 #include <stdio.h>
 int main() 
 {
-    int n, i,arr[n],min = arr[0],max = arr[0];
+    int n, i,arr[100],min = arr[100],max = arr[100];
     printf("Enter the number of elements: ");
     scanf("%d", &n);
     
